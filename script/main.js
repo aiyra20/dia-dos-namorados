@@ -318,7 +318,7 @@ function createHeart() {
 }
 setInterval(createHeart, 700);
 
-document.addEventListener("DOMContentLoaded", function () {
+/*document.addEventListener("DOMContentLoaded", function () {
     const audio = document.getElementById("background-audio");
 
     const savedTime = localStorage.getItem("audioCurrentTime");
@@ -335,7 +335,7 @@ document.addEventListener("DOMContentLoaded", function () {
     audio.addEventListener("timeupdate", function () {
         localStorage.setItem("audioCurrentTime", audio.currentTime);
     });
-});
+});*/
 
 
 
