@@ -342,7 +342,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 // música play
 
-const musicBtn = document.querySelector(".music-btn");
+/*const musicBtn = document.querySelector(".music-btn");
 const popup = document.getElementById("popup-play");
 let isMusicPlaying = false;
 const audio = document.getElementById("myAudio");
@@ -376,4 +376,4 @@ function toggleMusic() {
     setTimeout(() => {
         popup.style.display = "none";
     }, 4000);
-}
+}*/
