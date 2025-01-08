@@ -16,7 +16,7 @@ body {
     display: none;
 }
 
-.music-btn {
+/*.music-btn {
     position: fixed;
     bottom: 33px;
     left: 30px;
@@ -39,7 +39,7 @@ body {
 audio {
     display: none;
 
-}
+}*/
 
 .container {
     height: 100vh;
